@@ -3,10 +3,7 @@
 # Impact & Innovation Unit Web Content :wave:
 All static English and French web pages for the Impact & Innovation Unit found on [Canada.ca](https://www.canada.ca/en/innovation-hub)
 
-## 1. Prototype ##
-
-
-## 2 Prototypes ##
+## 1. Prototypes ##
 
 Webpage | Language | Screenshot | URL
 ------------- | ------------- | ------------- | -------------
